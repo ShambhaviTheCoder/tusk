@@ -1,12 +1,9 @@
 
 
 
-C
-C++
+
 Java
 Python
-Perl
-HTML,CSS
 Javascript
 Angular JS
 Reach JS
